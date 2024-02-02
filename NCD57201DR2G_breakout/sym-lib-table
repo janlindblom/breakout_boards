@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NCD57201DR2G")(type "KiCad")(uri "${KIPRJMOD}/lib/NCD57201DR2G.kicad_sym")(options "")(descr ""))
+)

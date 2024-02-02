@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCD57201DR2G
+D Gate Drivers HIGH VOLTAGE LOW AND ISOLATED HIGH SIDE GATE DRIVER
+K
+F https://www.mouser.in/datasheet/2/308/NCD57201_D-2037018.pdf
+$ENDCMP
+#
+#End Doc Library
