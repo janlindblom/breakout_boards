@@ -532,7 +532,7 @@
       },
       {
         "netclass": "HI_PWR",
-        "pattern": "/VB"
+        "pattern": "*BATT"
       },
       {
         "netclass": "HI_PWR",
